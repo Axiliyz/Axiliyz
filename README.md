@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1A1B27&width=435&lines=%F0%9F%92%BB+Hello%2C+I'm+Alex;%F0%9F%A4%96+Student-programmer%2C+backend+developer+;Keen+on+hardware%2C+software+and+AI)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=C17800&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Hello%2C+I'm+Alex;%F0%9F%A4%96+Student-programmer%2C+backend+developer+;%F0%9F%92%98+Keen+on+hardware%2C+software+and+AI)](https://git.io/typing-svg)
 ---
 
 ### 🧠 About:
