@@ -6,6 +6,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Axiliyz;C++%20dev%20%7C%20Arduino%20hacker%20%7C%20Future%20tech%20leader;&center=true&width=500&height=50&color=F77737&vCenter=true&size=22" />
+</p>
+
+---
+
 ### 🧠 About:
 - 🔭 Currently working on:
 -   - `SenseFlow`, Arduino pulse analysis system + Crossplatform app
@@ -76,10 +82,10 @@
 ### 📈 GitHub Statistics
 
 <p align="center"> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Axiliyz&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axiliyz&theme=tokyonight" alt="Top Langs"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Axiliyz&show_icons=true&theme=tokyonight&hide=issues&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axiliyz&theme=tokyonight" alt="Top Languages"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Axiliyz&theme=tokyonight" alt="GitHub Streak" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Axiliyz&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> 
 </p>
 
 
