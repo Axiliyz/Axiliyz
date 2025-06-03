@@ -1,14 +1,4 @@
-<h1 align="center">Hi, I'm Alex 👋</h1>
-
-<p align="center">
-  • 💻 Student-Programmer • 🤖 Keen on hardware, software and AI • 
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Alex;C++%20dev%20%7C%20Arduino%20hacker%20%7C%20Future%20tech%20leader;&center=true&width=500&height=50&color=F77737&vCenter=true&size=22" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1A1B27&width=435&lines=%F0%9F%92%BB+Hello%2C+I'm+Alex;%F0%9F%A4%96+Student-programmer%2C+backend+developer+;Keen+on+hardware%2C+software+and+AI)](https://git.io/typing-svg)
 
 ---
 
