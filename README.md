@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4250&pause=1000&color=38BDAE&vCenter=true&width=435&lines=%F0%9F%92%BB+Hello%2C+I'm+Alex.;%F0%9F%A4%96+programmer%2C+back-dev;%F0%9F%92%98+Keen+on+hardware%2C+software+and+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2250&pause=1000&color=38BDAE&vCenter=true&width=435&lines=%F0%9F%92%BB+Hello%2C+I'm+Alex.;%F0%9F%A4%96+programmer%2C+back-dev;%F0%9F%92%98+Keen+on+hardware%2C+software+and+AI)](https://git.io/typing-svg)
 
 ---
 
@@ -81,13 +81,6 @@
 
 ---
 
-## 📫 Contacts:
-
-<p align="center"> 
-  <a href="https://t.me/alekSUNDER_99"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a>
-  <a href="mailto:soleev.alex@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> 
-</p>
-
 ## 📬 Contact me
 
 <p align="center">
@@ -105,3 +98,32 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://t.me/alekSUNDER_99">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:soleev.alex@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Axiliyz">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://vk.com/your_vk_profile">
+    <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Axiliyz">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:soleev.alex@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/alekSUNDER_99">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://vk.com/your_vk_profile">
+    <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" />
+  </a>
+</p>
