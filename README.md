@@ -50,11 +50,9 @@
 ---
 
 ### 🚀 Projects:
-<p align="center>
   | Name | Description | Stack |
   |---|---|---|
   | [SenseFlow](https://github.com/твоя-ссылка) | Device for pulse analysis based on Arduino + Beautiful app | Arduino, C++, Flutter |
-</p>
 ---
 
 ### 📈 GitHub Statistics
