@@ -1,22 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2250&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Hello%2C+I'm+Alex.;%F0%9F%A4%96+programmer%2C+backend+developer+;%F0%9F%92%98+Keen+on+hardware%2C+software+and+AI)](https://git.io/typing-svg)
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,arduino,flutter,dart,python,linux,git,github,vercel" />
-</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=0AFFC7&center=true&vCenter=true&width=435&lines=whoami;I'm+Axiliyz%2C+builder+of+real-tech;cat+projects.md;cat+philosophy.txt)](https://git.io/typing-svg)
-
-<details>
-  <summary>🧘 Мои принципы разработки</summary>
-
-  - Код должен говорить сам за себя.
-  - Простота — высшая сложность.
-  - Быстрый прототип > Идеальный дизайн.
-</details>
-
-
-### 🧠 About:
+## 🧠 About:
 - 🔭 Currently working on:
 -   - `SenseFlow`, Arduino pulse analysis system + Crossplatform app
     - `SmartAlert`, Cloud system of smart notifications
@@ -27,30 +13,30 @@
 
 ---
 
-### 🛠️ My stack:
+## 🛠️ My stack:
 
-## Backend
+### Backend
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,c,cpp,py,django,postgres" />
   </a>
 </p>
 
-## Frontend
+### Frontend
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,figma" />
   </a>
 </p>
 
-## Tools
+### Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,vim,vscode,linux" />
   </a>
 </p>
 
-## Other
+### Other
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino" />
@@ -59,7 +45,7 @@
 
 ---
 
-### 🚀 Projects:
+## 🚀 Projects:
 <div align="center">
 
 <table>
@@ -83,7 +69,7 @@
 </div>
 ---
 
-### 📈 GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center"> 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Axiliyz&show_icons=true&theme=tokyonight&hide=issues&hide_border=true" alt="GitHub Stats" />
@@ -95,9 +81,27 @@
 
 ---
 
-### 📫 Contacts:
+## 📫 Contacts:
 
 <p align="center"> 
   <a href="https://t.me/alekSUNDER_99"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a>
   <a href="mailto:soleev.alex@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> 
 </p>
+
+## 📬 Contact me
+
+<p align="center">
+  <a href="https://t.me/alekSUNDER_99">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:soleev.alex@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Axiliyz">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://vk.com/your_vk_profile">
+    <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+  </a>
+</p>
+
