@@ -60,9 +60,9 @@
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=твойник&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Axiliyz&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=твойник&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Axiliyz&theme=radical" />
   <br/>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axiliyz&theme=github_dark)
 </p>
