@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alex</h1>
+<h1 align="center">Hi, I'm Alex 👋</h1>
 
 <p align="center">
   • 💻 Student-Programmer • 🤖 Keen on hardware, software and AI • 
@@ -60,11 +60,11 @@
 ### 📈 GitHub Statistics
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Axiliyz&show_icons=true&theme=radical&hide=issues)
+  <img src="https://github-readme-stats.vercel.app/api?username=твойник&show_icons=true&theme=radical" />
   <br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axiliyz&layout=compact&theme=radical)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=твойник&theme=radical" />
   <br/>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Axiliyz&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axiliyz&theme=github_dark)
 </p>
 
 ---
