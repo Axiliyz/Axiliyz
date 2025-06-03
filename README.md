@@ -1,28 +1,49 @@
 <h1 align="center">Солеев Александр</h1>
 
 <p align="center">
-  💻 Программист • 🤖 Люблю железо и бэкэнд • 
+  • 💻 Программист • 🤖 Люблю железо и бэкэнд • 
 </p>
 
 ---
 
 ### 🧠 О себе:
 - 🔭 Сейчас работаю над: `SenseFlow`, системой анализа пульса на Arduino + кроссплатформенное приложение
-- 🌱 Изучаю: Java, C++, CS, нейросети, философию и инвестирование
-- 💬 Спрашивай про: embedded, системное мышление
-- ⚡ Факт: могу объяснить сложное простым языком
+- 🌱 Изучаю: Python, C/C++, Bash, CS, нейросети
+- 💥 Интересуюсь: инвестирование, музыка, философия, аниме 
+- ⚡ Факт: В прошлом фронтендер
 - 🎯 Миссия: стать тимлидом и сделать жизнь миллионов пользователей лучше
 
 ---
 
-### 🛠️ Стек технологий:
+### 🛠️ Ny stack:
 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+## Backend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash, c, cpp py, django, postgres" />
+  </a>
+</p>
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+## Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html, css, sass, js, figma" />
+  </a>
+</p>
+
+## Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,vim,vs,linux" />
+  </a>
+</p>
+
+## Other
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino" />
+  </a>
+</p>
 
 ---
 
