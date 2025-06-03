@@ -1,21 +1,23 @@
-<h1 align="center">Солеев Александр</h1>
+<h1 align="center">Hi, I'm Alex</h1>
 
 <p align="center">
-  • 💻 Программист • 🤖 Люблю железо и бэкэнд • 
+  • 💻 Student-Programmer • 🤖 Keen on hardware, software and AI • 
 </p>
 
 ---
 
-### 🧠 О себе:
-- 🔭 Сейчас работаю над: `SenseFlow`, системой анализа пульса на Arduino + кроссплатформенное приложение
-- 🌱 Изучаю: Python, C/C++, Bash, CS, нейросети
-- 💥 Интересуюсь: инвестирование, музыка, философия, аниме 
-- ⚡ Факт: В прошлом фронтендер
-- 🎯 Миссия: стать тимлидом и сделать жизнь миллионов пользователей лучше
+### 🧠 About:
+- 🔭 Currently working on:
+-   - `SenseFlow`, Arduino pulse analysis system + Crossplatform app
+    - 
+- 🌱 Exploring: Algorithms, Python, C/C++, Bash, CS, AI
+- 💥 Interested in: investing, gym, music, phylosophie, anime 
+- ⚡ Fact: Was in frontend at 15-17 y.o.
+- 🎯 Mission: Became a teamlead and make this world better
 
 ---
 
-### 🛠️ Ny stack:
+### 🛠️ My stack:
 
 ## Backend
 <p align="center">
@@ -47,25 +49,27 @@
 
 ---
 
-### 🚀 Проекты:
+### 🚀 Projects:
 
-| Название | Описание | Технологии |
+| Name | Description | Stack |
 |---|---|---|
-| [SenseFlow](https://github.com/твоя-ссылка) | Устройство для анализа пульса на Arduino + красивое приложение | Arduino, C++, Flutter |
+| [SenseFlow](https://github.com/твоя-ссылка) | Device for pulse analysis based on Arduino + Beautiful app | Arduino, C++, Flutter |
 
 ---
 
-### 📈 GitHub Статистика
+### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axiliyz&show_icons=true&theme=radical" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Axiliyz&show_icons=true&theme=radical&hide=issues)
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Axiliyz&theme=radical" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axiliyz&layout=compact&theme=radical)
+  <br/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Axiliyz&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </p>
 
 ---
 
-### 📫 Контакты:
+### 📫 Contacts:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/alekSUNDER_99)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/твойпрофиль)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soleev.alex@gmail.com)
