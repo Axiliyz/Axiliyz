@@ -60,11 +60,11 @@
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axiliyz&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Axiliyz&show_icons=true&theme=github_dark" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Axiliyz&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Axiliyz&theme=github_dark" />
   <br/>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axiliyz&theme=github_dark)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axiliyz&theme=github_dark"/>
 </p>
 
 ---
