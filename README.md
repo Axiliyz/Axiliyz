@@ -12,7 +12,7 @@
 ## 🛠️ My stack:
 
 <div align="center">
-  ### Backend
+  <h3>Backend</h3>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,7 +21,7 @@
 </p>
 
 <div align="center">
-  ### Frontend
+  <h3>Frontend</h3>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,7 +30,7 @@
 </p>
 
 <div align="center">
-  ### Tools
+    <h3>Tools</h3>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,7 +39,7 @@
 </p>
 
 <div align="center">
-  ### Other
+  <h3>Other</h3>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
