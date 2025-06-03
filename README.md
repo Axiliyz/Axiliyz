@@ -50,20 +50,33 @@
 ---
 
 ### 🚀 Projects:
-  | Name | Description | Stack |
-  |---|---|---|
-  | [SenseFlow](https://github.com/твоя-ссылка) | Device for pulse analysis based on Arduino + Beautiful app | Arduino, C++, Flutter |
+<div align="center">
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/твоя-ссылка">SenseFlow</a></td>
+    <td>Device for pulse analysis based on Arduino + Beautiful app</td>
+    <td><code>Arduino</code>, <code>C++</code>, <code>Flutter</code></td>
+  </tr>
+</table>
+
+</div>
 ---
 
 ### 📈 GitHub Statistics
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Axiliyz&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Axiliyz&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axiliyz&theme=tokyonight" alt="Top Langs"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Axiliyz&theme=tokyonight" alt="GitHub Streak" /> 
-  <br/> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axiliyz&theme=tokyonight" alt="Top Langs"/> 
 </p>
+
 
 ---
 
