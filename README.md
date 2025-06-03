@@ -50,19 +50,28 @@
 ---
 
 ### 🚀 Projects:
-
-| Name | Description | Stack |
-|---|---|---|
-| [SenseFlow](https://github.com/твоя-ссылка) | Device for pulse analysis based on Arduino + Beautiful app | Arduino, C++, Flutter |
-
+<p align="center>
+  | Name | Description | Stack |
+  |---|---|---|
+  | [SenseFlow](https://github.com/твоя-ссылка) | Device for pulse analysis based on Arduino + Beautiful app | Arduino, C++, Flutter |
+</p>
 ---
 
 ### 📈 GitHub Statistics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Axiliyz&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Axiliyz&theme=tokyonight" alt="GitHub Streak" /> <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axiliyz&theme=tokyonight" alt="Top Langs"/> </p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Axiliyz&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" /> 
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Axiliyz&theme=tokyonight" alt="GitHub Streak" /> 
+  <br/> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axiliyz&theme=tokyonight" alt="Top Langs"/> 
+</p>
 
 ---
 
 ### 📫 Contacts:
 
-<p align="center"> <a href="https://t.me/alekSUNDER_99"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a> <a href="mailto:soleev.alex@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
+<p align="center"> 
+  <a href="https://t.me/alekSUNDER_99"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a>
+  <a href="mailto:soleev.alex@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> 
+</p>
