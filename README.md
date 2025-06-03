@@ -9,7 +9,7 @@
 ### 🧠 About:
 - 🔭 Currently working on:
 -   - `SenseFlow`, Arduino pulse analysis system + Crossplatform app
-    - 
+    - `SmartAlert`, Cloud system of smart notifications
 - 🌱 Exploring: Algorithms, Python, C/C++, Bash, CS, AI
 - 💥 Interested in: investing, gym, music, phylosophie, anime 
 - ⚡ Fact: Was in frontend at 15-17 y.o.
@@ -63,6 +63,11 @@
     <td>Device for pulse analysis based on Arduino + Beautiful app</td>
     <td><code>Arduino</code>, <code>C++</code>, <code>Flutter</code></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/твоя-ссылка">SmartAlert</a></td>
+    <td>Cloud system of smart notifications</td>
+    <td><code>Python</code>, <code>Django</code>, <code>PostgreSQL</code>, <code>Redis</code>, <code>Kafka</code></td>
+  </tr>
 </table>
 
 </div>
@@ -71,8 +76,8 @@
 ### 📈 GitHub Statistics
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Axiliyz&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axiliyz&theme=tokyonight" alt="Top Langs"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Axiliyz&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axiliyz&theme=tokyonight" alt="Top Langs"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Axiliyz&theme=tokyonight" alt="GitHub Streak" /> 
 </p>
