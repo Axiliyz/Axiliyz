@@ -20,21 +20,21 @@
 ## Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash, c, cpp py, django, postgres" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,py,django,postgres" />
   </a>
 </p>
 
 ## Frontend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css, sass, js, figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,figma" />
   </a>
 </p>
 
 ## Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vim,vs,linux" />
+    <img src="https://skillicons.dev/icons?i=git,docker,vim,vscode,linux" />
   </a>
 </p>
 
