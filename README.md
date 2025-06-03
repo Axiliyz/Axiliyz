@@ -6,35 +6,8 @@
 
 ---
 
-![snake gif](https://github.com/Axiliyz/Axiliyz/blob/output/github-contribution-grid-snake.svg)
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Axiliyz;C++%20dev%20%7C%20Arduino%20hacker%20%7C%20Future%20tech%20leader;&center=true&width=500&height=50&color=F77737&vCenter=true&size=22" />
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/твояID" width="120" style="border-radius: 50%">
-</p>
-
-<h3 align="center">Hi, I'm Alex 👋</h3>
-
-<p align="center">
-  <a href="https://t.me/alekSUNDER_99">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:soleev.alex@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Axiliyz;C++%20dev%20%7C%20Arduino%20hacker%20%7C%20Future%20tech%20leader;&center=true&width=500&height=50&color=F77737&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Alex;C++%20dev%20%7C%20Arduino%20hacker%20%7C%20Future%20tech%20leader;&center=true&width=500&height=50&color=F77737&vCenter=true&size=22" />
 </p>
 
 ---
