@@ -84,36 +84,6 @@
 ## 📬 Contact me
 
 <p align="center">
-  <a href="https://t.me/alekSUNDER_99">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:soleev.alex@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Axiliyz">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://vk.com/your_vk_profile">
-    <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://t.me/alekSUNDER_99">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:soleev.alex@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Axiliyz">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://vk.com/your_vk_profile">
-    <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Axiliyz">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -123,7 +93,7 @@
   <a href="https://t.me/alekSUNDER_99">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://vk.com/your_vk_profile">
+  <a href="https://vk.com/aleksunder99">
     <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" />
   </a>
 </p>
