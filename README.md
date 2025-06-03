@@ -1,7 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2250&pause=1000&color=38BDAE&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%92%BB+Hello%2C+I'm+Alex.;%F0%9F%A4%96+programmer%2C+backend+developer+;%F0%9F%92%98+Keen+on+hardware%2C+software+and+AI)](https://git.io/typing-svg)
-<br/>
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2250&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Hello%2C+I'm+Alex.;%F0%9F%A4%96+programmer%2C+backend+developer+;%F0%9F%92%98+Keen+on+hardware%2C+software+and+AI)](https://git.io/typing-svg)
 ---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,arduino,flutter,dart,python,linux,git,github,vercel" />
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=0AFFC7&center=true&vCenter=true&width=435&lines=whoami;I'm+Axiliyz%2C+builder+of+real-tech;cat+projects.md;cat+philosophy.txt)](https://git.io/typing-svg)
+
+<details>
+  <summary>🧘 Мои принципы разработки</summary>
+
+  - Код должен говорить сам за себя.
+  - Простота — высшая сложность.
+  - Быстрый прототип > Идеальный дизайн.
+</details>
+
 
 ### 🧠 About:
 - 🔭 Currently working on:
