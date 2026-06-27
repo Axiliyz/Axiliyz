@@ -2,11 +2,9 @@
 
 ## 🧠 About:
 - 🔭 Currently working on:
--   - SenseFlow, Arduino pulse analysis system + Crossplatform app
-    - SmartAlert, Cloud system of smart notifications
+-   - FleetTrack, telemetry system
 - 🌱 Exploring: Algorithms, Python, C/C++, Bash, CS, AI
-- 💥 Interested in: investing, gym, music, phylosophie, anime 
-- ⚡ Fact: Was in frontend at 15-17 y.o.
+- 💥 Interested in: investing, gym, music
 - 🎯 Mission: Became a teamlead and make this world better
 
 ## 🛠️ My stack:
@@ -16,7 +14,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,py,django,postgres" />
+    <img src="https://skillicons.dev/icons?i=bash,c,go,cpp,py,postgres" />
   </a>
 </p>
 
@@ -35,15 +33,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,vim,vscode,linux" />
-  </a>
-</p>
-
-<div align="center">
-  <h3>Other</h3>
-</div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino" />
   </a>
 </p>
 
