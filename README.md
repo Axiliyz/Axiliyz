@@ -1,11 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2250&pause=1000&color=38BDAE&vCenter=true&width=435&lines=%F0%9F%92%BB+Hello%2C+I'm+Alex.;%F0%9F%A4%96+programmer%2C+back-dev;%F0%9F%92%98+Keen+on+hardware%2C+software+and+AI)](https://git.io/typing-svg)
 
 ## 🧠 About:
-- 🔭 Currently working on:
--   - FleetTrack, telemetry system
-- 🌱 Exploring: Algorithms, Python, C/C++, Bash, CS, AI
+- 🔭 Currently working on: FleetTrack, telemetry system
+- 🌱 Exploring: Go, Algorithms, Python, C/C++, Bash, CS, AI
 - 💥 Interested in: investing, gym, music
-- 🎯 Mission: Became a teamlead and make this world better
+- 🎯 Mission: Become a teamlead and make this world better
 
 ## 🛠️ My stack:
 
@@ -46,14 +45,24 @@
     <th>Stack</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/Axiliyz/SenseFlow_Device">SenseFlow</a></td>
-    <td>Device for pulse analysis based on Arduino + Beautiful app(Commercial)</td>
+    <td><a href="https://github.com/Axiliyz/SenseFlowDevice">SenseFlow</a></td>
+    <td>Device for pulse analysis based on Arduino + companion app</td>
     <td><code>Arduino</code>, <code>C++</code>, <code>Flutter</code></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/твоя-ссылка">SmartAlert</a></td>
-    <td>Cloud system of smart notifications</td>
-    <td><code>Python</code>, <code>Django</code>, <code>PostgreSQL</code>, <code>Redis</code>, <code>Kafka</code></td>
+    <td><a href="https://github.com/Axiliyz/FleetTrack">FleetTrack</a></td>
+    <td>Fleet telemetry and management system</td>
+    <td><code>Go</code>, <code>PostgreSQL</code>, <code>Docker</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Axiliyz/AIChecker">AIChecker</a></td>
+    <td>Static analyzer scoring the likelihood a Scala codebase was AI-generated</td>
+    <td><code>Scala</code>, <code>ZIO</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Axiliyz/LeetGo">LeetGo</a></td>
+    <td>LeetCode solutions in Go with per-problem breakdowns</td>
+    <td><code>Go</code></td>
   </tr>
 </table>
 
@@ -71,16 +80,10 @@
 ## 📬 Contact me
 
 <p align="center">
-  <a href="https://github.com/Axiliyz">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="mailto:soleev.alex@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/alekSUNDER_99">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://vk.com/aleksunder99">
-    <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" />
   </a>
 </p>
